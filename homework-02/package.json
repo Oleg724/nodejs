@@ -1,0 +1,14 @@
+{
+  "name": "simple-math-operations-by-another-human",
+  "version": "2.0.0",
+  "description": "Simple arithmetic operations",
+  "main": "index.js",
+  "bin": {
+    "calculate": "src/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "another_human_404",
+  "license": "ISC"
+}
