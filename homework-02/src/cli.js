@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const operations = require('./index');
+const operations = require('../index');
 const { convertArgumentsToNumbers, checkAllArguments } = require('./processes');
 
 const [,, operation, arg1, arg2] = process.argv;
